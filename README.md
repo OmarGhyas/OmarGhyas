@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Omar Ghyas </h1>
+<h1 align="center">Hi👋, I'm Omar Ghyas </h1>
+<h3 align="center">Full Stack Mobile App Developer</h3>
 
 ---
 
@@ -9,20 +10,48 @@
 ## Programming Languages:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,c" alt="Java" />
+</p>
+
+## Android
+<p align = "left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"  width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/jetpackcompose" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" />
+ <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48"/>
   
 </p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+## Tools
+
+<p align = "left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" />
+ 
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=idea"width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+  
+</p>
+
+ 
+
+
 
 # 👨‍💻 Coding Profiles:
 <p align="left">
-<a href="https://linkedin.com/in/omar-ghyas" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="omar-ghyas" height="48" width="48" /></a>
-<a href="https://www.codechef.com/users/omar83137" target="blank"><img align="center" src="https://cdn.simpleicons.org/codechef/white" alt="omar83137" height="48" width="48" /></a>
 <a href="https://www.leetcode.com/omarghyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omarghyas" height="48" width="48" /></a>
+<a href="https://www.codechef.com/users/omar83137" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" alt="omar83137" height="48" width="48" /></a>
 <a href="https://www.geeksforgeeks.org/profile/ghyas84iv5?tab=activity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="profile/ghyas84iv5?tab=activity" height="48" width="48" /></a>
 </p>
 
-## Socials
+# Connect With Me
+<p align = "left">
+<a href="https://linkedin.com/in/omar-ghyas" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="omar-ghyas" height="48" width="48" /></a>
+<a href="mailto: ghyas83137@gmail.com" > <img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="gmail" height="48" width="48" />
+</a>" 
+</p>
+
 
 
 # 📊 GitHub Stats:
