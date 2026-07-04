@@ -55,8 +55,8 @@ ___
 
 # GitHub Stats:
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=OmarGhyas&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=OmarGhyas&theme=solarized-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=OmarGhyas&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=OmarGhyas&theme=solarized-dark&hide_border=true" />
 </p>
 <img src="https://komarev.com/ghpvc/?username=OmarGhyas&label=Profile%20Views&color=3DDC84&style=for-the-badge" />
 
